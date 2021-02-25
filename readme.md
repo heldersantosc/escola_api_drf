@@ -15,5 +15,7 @@ python .\manage.py startapp escola
 
 pip install djangorestframework
 
-criar um arquivo de bibliotecas
+**criar um arquivo de bibliotecas**
 pip3 freeze > requirements.txt
+
+**configurar admin**

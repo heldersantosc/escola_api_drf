@@ -12,3 +12,8 @@ LANGUAGE_CODE = 'pt-br'
 TIME_ZONE = 'America/Sao_Paulo'
 
 python .\manage.py startapp escola
+
+pip install djangorestframework
+
+criar um arquivo de bibliotecas
+pip3 freeze > requirements.txt
